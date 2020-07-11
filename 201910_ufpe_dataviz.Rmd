@@ -298,36 +298,6 @@ knitr::include_graphics("img/communication/communication_10_qualMensagem.png")
 ```
 
 
-<!-- comunicação 10.1 -->
----
-class: middle
-
-# Visualização de Dados
-
-```{r, out.width="90%", fig.cap="<center><b> </center></b>"}
-knitr::include_graphics("img/communication/communication_10_qualMensagem_layout1.png")
-```
-
-
-<!-- comunicação 10.1 -->
----
-class: middle
-
-# Visualização de Dados
-
-```{r, out.width="90%", fig.cap="<center><b> </center></b>"}
-knitr::include_graphics("img/communication/communication_10_qualMensagem_layout1.png")
-```
-
-<!-- comunicação 10.1 -->
----
-class: middle
-
-# Visualização de Dados
-
-```{r, out.width="90%", fig.cap="<center><b> </center></b>"}
-knitr::include_graphics("img/communication/communication_10_qualMensagem_layout1.png")
-```
 
 <!-- grammar of graphics + ggplot2 -->
 
